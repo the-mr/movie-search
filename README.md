@@ -15,7 +15,9 @@ or
 $ python3 movie-search.py <movie name>
 ```
 the above only works with 1st word of movie
-ex : to search for free guy, only the free will be searched and not guy
+
+# Example
+EX : to search for free guy, only the free will be searched and not guy
 ```
 $ python3 movie-search.py Free
 ```
